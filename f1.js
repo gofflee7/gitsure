@@ -3,4 +3,5 @@ f1 = "fisrt1";
 f1 = "new frist one";
 f1 = "again f one";
 f1 = "the last f1"
+var thef1 = "sobig";
 
